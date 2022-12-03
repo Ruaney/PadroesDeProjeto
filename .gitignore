@@ -1,0 +1,10 @@
+
+memento/target/memento-1.0-SNAPSHOT.jar
+memento/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+memento/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+memento/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+memento/target/maven-archiver/pom.properties
+memento/target/classes/padroes/memento3/Zelador.class
+memento/target/classes/padroes/memento3/business/Produto.class
+memento/target/classes/com/mycompany/memento/Memento.class
+memento/target/classes/padroes/memento3/business/MementoProduto.class
